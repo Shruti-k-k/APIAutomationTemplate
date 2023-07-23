@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.503">
+           time="3.738">
     <properties></properties>
 
 
 
             <testcase
                 name="get_test"
-                time="3.503"
+                time="3.738"
                 classname="org.apiautomation.tests.fullcrud.GETRequest">
             </testcase>
 </testsuite>
