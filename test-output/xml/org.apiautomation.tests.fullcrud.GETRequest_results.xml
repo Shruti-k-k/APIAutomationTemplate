@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API Automation"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.503">
+    <properties></properties>
+
+
+
+            <testcase
+                name="get_test"
+                time="3.503"
+                classname="org.apiautomation.tests.fullcrud.GETRequest">
+            </testcase>
+</testsuite>
